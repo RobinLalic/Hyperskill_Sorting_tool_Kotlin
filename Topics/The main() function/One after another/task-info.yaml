@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main(args: Array<String>) {
+        TODO()
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20597#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 18 May 2023 09:07:53 UTC"
+record: -1
+submission_language: kotlin

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.hyperskill</groupId>
+  <artifactId>hs-test</artifactId>
+  <version>release-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20221212.073951</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20221212073951</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>release-20221212.073951-2</value>
+        <updated>20221212073951</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>module</extension>
+        <value>release-20221212.073951-2</value>
+        <updated>20221212073951</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>release-20221212.073951-2</value>
+        <updated>20221212073951</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

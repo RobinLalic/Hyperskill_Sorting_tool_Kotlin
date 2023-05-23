@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val index = readLine()!!.toInt()
+        val word = readLine()!!
+        println(word[index])
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7606#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 22 May 2023 09:19:15 UTC"
+record: -1
+submission_language: kotlin

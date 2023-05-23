@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "val lambda: (Int, Int) -> Int = TODO(\"Provide implementation\")"
+  learner_created: false
+- name: src/words_with_numbers.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6160#comment
+status: Failed
+record: -1
+submission_language: kotlin

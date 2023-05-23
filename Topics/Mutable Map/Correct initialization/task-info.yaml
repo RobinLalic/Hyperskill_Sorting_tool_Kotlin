@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: val map = mapOf()
+- text: val map = 1 to 2
+- text: "val map = (\"First\" to \"Second\", \"Third\" to \"Fourth\")"
+- text: "val map = mapOf&lt;String, String&gt;()"
+- text: val map = mutableMapOf("John" to "Too")
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20694#comment
+status: Solved
+record: -1
+local_check: false

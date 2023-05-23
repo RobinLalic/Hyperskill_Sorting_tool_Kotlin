@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Taming_exceptions-Dividing_by_zero" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Taming exceptions/Dividing by zero" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Sorting Tool (Kotlin)" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Taming exceptions/Dividing by zero">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Taming exceptions/Dividing by zero/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Taming exceptions/Dividing by zero/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Taming exceptions/Dividing by zero/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

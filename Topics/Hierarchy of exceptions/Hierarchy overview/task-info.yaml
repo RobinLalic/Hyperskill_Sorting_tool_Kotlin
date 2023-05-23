@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "RuntimeException extends Exception, Exception extends Throwable"
+- text: "RuntimeException extends Exception, Exception extends Error"
+- text: "Error extends Throwable, Throwable extends Exception"
+- text: "Error extends Exception, Exception extends Throwable"
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13265#comment
+status: Solved
+record: -1
+local_check: false
